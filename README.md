@@ -11,3 +11,4 @@ HR Analytics dashboard, essential for tracking and evaluating the effectiveness 
 9. Comparison to Industry Benchmarks: Comparing your attrition rate and other metrics to industry benchmarks can help gauge your organization's performance relative to peers.
 10. Cost of Attrition: Calculating the cost associated with employee turnover, including recruitment, training, and lost productivity, can help quantify the impact of attrition on the organization's finances.
 11. Employee Satisfaction Survey Participation: Monitoring the participation rate in employee satisfaction surveys can ensure that gathering sufficient data for analysis.
+![image](https://github.com/ankit14091/HR-Analytics-Dashboard/assets/113129602/a8ee6f3d-34d6-49cf-973e-6279f53d7937)
